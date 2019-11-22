@@ -6,3 +6,5 @@
 ### 4.下载png图片的功能
 
 ##### 直接打开项目下topolofy_es5.html文件就可以预览，无需部署，推荐使用webstorm来编辑
+##### 感谢大佬开源这么好用的画图工具
+##### topolofy项目地址：https://github.com/le5le-com/topology
