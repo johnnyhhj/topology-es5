@@ -1,4 +1,4 @@
-# 基于Topolofy的一个es5+jquery+bootstrap的实现
+# 基于Topolofy的一个实现（es5+jquery+bootstrap）
 ## 主要功能有：
 ### 1.左侧栏基础节点的增加
 ### 2.点击节点和连线的右侧菜单的基础功能修改
